@@ -1,0 +1,3 @@
+export const FETCH_ADDRESS = "FETCH_ADDRESS";
+export const ADD_ADDRESS = "ADD_ADDRESS";
+export const ADD_ADDRESS_ERROR = "ADD_ADDRESS_ERROR";

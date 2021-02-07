@@ -1,0 +1,20 @@
+.pageContainer {
+  height: 100%;
+  width: 100%;
+  color: white;
+  max-width: 560px;
+  margin: 0 auto;
+}
+
+.pageTitle {
+  font-size: 32px;
+}
+
+.pageSubTitle {
+  font-size: 16px;
+}
+
+.titleWrapper {
+  border-bottom: 3px solid #c250a1;
+  text-align: center;
+}

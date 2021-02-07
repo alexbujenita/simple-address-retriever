@@ -1,0 +1,9 @@
+.selectGroup {
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    width: 100%;
+    height: 40px;
+    text-align: center;
+    text-align-last: center; /*added this for Chrome*/
+}

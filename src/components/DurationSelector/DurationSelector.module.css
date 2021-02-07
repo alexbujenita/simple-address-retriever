@@ -1,0 +1,8 @@
+.addressDuration {
+    display: flex;
+    justify-content: space-between;
+}
+
+.addressDuration > select:first-of-type {
+    margin-right: 10px;
+}

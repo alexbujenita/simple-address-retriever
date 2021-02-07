@@ -1,0 +1,25 @@
+.postcodeForm {
+    position: relative;
+}
+
+.postcodeInput {
+    box-sizing: border-box;
+    height: 40px;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+}
+
+.postcodeInput::placeholder {
+    color: white;
+}
+
+.postcodeSearch {
+    position: absolute;
+    right: 12.5px;
+    bottom: 12.5px;
+    height: 15px;
+    width: 15px;
+}

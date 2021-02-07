@@ -1,0 +1,15 @@
+.personalAddress {
+    border: 1px solid white;
+    background-color: #88077b;
+    text-align: left;
+    padding: 5px 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.personalAddressDelete {
+    padding: 16px 0;
+}
+.personalAddressDelete > img {
+    width: 18px;
+}

@@ -1,0 +1,32 @@
+.newAddress {
+    display: flex;
+    flex-direction: column;
+}
+
+.doubleChevron {
+    width: 10px;
+    margin: 20px auto;
+}
+
+.addressLine {
+    box-sizing: border-box;
+    height: 40px;
+    width: 100%;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    padding: 15px;
+    margin: 10px 0;
+}
+
+.newAddressSubmit {
+    font-size: 20px;
+    font-weight: bold;
+    margin: 50px auto;
+    width: 70%;
+    height: 70px;
+    background-color: white;
+    color: #ff0074;
+    border: 1px solid #ff0074;
+    border-radius: 50px;
+}
